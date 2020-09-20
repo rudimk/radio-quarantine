@@ -6,4 +6,4 @@ While the original plan was to work exclusively with Sonic Pi, I've lately gotte
 
 ## Track Listing
 
-1. Sonic Dreams([Code](1-sonic-dreams/sonic-dreams.rb) | SoundCloud)
+1. Sonic Dreams([Code](1-sonic-dreams/sonic-dreams.rb) | [SoundCloud](https://soundcloud.com/rudimk/sonic-dreams))
